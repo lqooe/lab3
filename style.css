@@ -1,0 +1,38 @@
+.wrapper1  {
+    border: 1px solid darkcyan;
+    margin-top: 5px;
+    padding: 10px 20px;
+
+}
+
+.wrapper2  {
+    border: 1px solid darkcyan;
+    margin-top: 5px;
+    padding: 10px 20px;
+}
+
+.wrapper3  {
+    border: 1px solid darkcyan;
+    margin-top: 5px;
+    padding: 10px 20px;
+}
+
+h3{
+    font-size: 25px;
+    color: blueviolet;
+}
+
+p{
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.buttons {
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    background-color: white;
+    border-radius: 10px;
+}
+.buttons:hover {
+    box-shadow: 0 0 40px 40px forestgreen inset;
+}
